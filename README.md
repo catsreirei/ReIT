@@ -1,2 +1,2 @@
-# reit
+# ReIT
 ReIT by Reirei
